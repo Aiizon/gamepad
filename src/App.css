@@ -22,6 +22,8 @@
   height: 150px;
   width: 150px;
   border: 1px solid gray;
+  background-image: url('/water.jpg');
+  overflow: hidden;
 
   #player {
     position: absolute;
