@@ -52,9 +52,9 @@ export default function App() {
     });
 
     return (
-      <>
+        <>
           <Gamepad onMove={handleMove}/>
           <Board position={position}/>
-      </>
+        </>
     );
 }
